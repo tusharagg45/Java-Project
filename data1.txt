@@ -1,0 +1,6 @@
+KRANTI      | 20000                      | Yes                     | 5000                 | GURGAON       | 
+KRITI       | 15000                      | No                      | 0                    | DELHI         | 
+AAKASH      | 89990                      | Yes                     | 9000                 | LUCKNOW       | 
+AAKRITI     | 56678                      | No                      | 0                    | AGRA          | 
+AAKROSH     | 56734                      | Yes                     | 8990                 | SONIPAT       | 
+KARAMA      | 23567                      | No                      | 0                    | GURGAON       | 
